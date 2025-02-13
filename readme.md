@@ -68,8 +68,8 @@ _"No te rindas, por favor no cedas, aunque el frío queme, aunque el miedo muerd
 ---
 
 ## Contáctame  
-<p align="center">
-<a href="www.linkedin.com/in/stefany-sanchez-7553ab333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefany-sanchez" height="20" width="30" /></a>
+<p align="center" gap="5px">
+<a href="https://www.linkedin.com/in/stefany-sanchez-7553ab333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefany-sanchez" height="20" width="30" /></a>
 <a href="https://instagram.com/stefanyyy_152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stefanyyy_152" height="20" width="30" /></a>
 <a href="mailto:yuli.estefani.15@gmail.com" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="20" width="30" />
