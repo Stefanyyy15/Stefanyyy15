@@ -6,10 +6,10 @@
 </p>
 
 ## Sobre mí  
-🌱 Actualmente estoy profundizando en **desarrollo frontend con JavaScript y frameworks modernos**  
-🎯 Mi objetivo es convertirme en **FullStack Developer** con especialización en frontend y experiencia en backend  
-💡 Me encanta aprender y compartir conocimientos sobre desarrollo y tecnología  
-🚀 Disfruto trabajar en proyectos que tienen impacto real en la comunidad  
+- Actualmente estoy profundizando en **desarrollo frontend con JavaScript y frameworks modernos**  
+- Mi objetivo es convertirme en **FullStack Developer** con especialización en frontend y experiencia en backend  
+- Me encanta aprender y compartir conocimientos sobre desarrollo y tecnología  
+- Disfruto trabajar en proyectos que tienen impacto real en la comunidad  
 
 ## En qué estoy trabajando ahora  
 - Desarrollando **Bohemia**, una red social con temática bohemia  
