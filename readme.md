@@ -22,7 +22,7 @@
 
 ## Lenguajes y Herramientas  
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
@@ -69,7 +69,7 @@ _"No te rindas, por favor no cedas, aunque el frío queme, aunque el miedo muerd
 
 ## Contáctame  
 <p align="center">
-<a href="https://linkedin.com/in/stefany-sanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefany-sanchez" height="20" width="30" /></a>
+<a href="www.linkedin.com/in/stefany-sanchez-7553ab333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefany-sanchez" height="20" width="30" /></a>
 <a href="https://instagram.com/stefanyyy_152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stefanyyy_152" height="20" width="30" /></a>
 <a href="mailto:yuli.estefani.15@gmail.com" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="20" width="30" />
